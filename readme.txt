@@ -2,7 +2,6 @@
 Contributors:nik00726
 Donate link:http://www.i13websolution.com/donate-wordpress_image_thumbnail.php
 Tags:wordpress circle slider lightbox,wordpress circle slider,wordpress rounded image,wordpress circle gallery,wordpress circle gallery slider,wordpress google like rounded image
-
 Requires at least:3.0
 Tested up to:4.2.3
 Version:1.0
@@ -10,15 +9,16 @@ Stable tag:trunk
 License:GPLv2 or later
 License URI:http://www.gnu.org/licenses/gpl-2.0.html
 
-Circle Image Silder With Lightbox is beautiful responsive circle thumbnail image slider with responsive lightbox.Add any number of images from admin panel.
+Circle Image Silder With Lightbox is beautiful responsive circle thumbnail image slider with responsive lightbox.Add any number of images from admin.
+
 
 == Description ==
 
 Circle Image Slider With Lightbox is beautiful responsive circle thumbnail image slider with responsive lightbox.Admin can manages any number of images into the slider.Admin can add,edit and delete slider images.admin can set image description to lightbox.admin can set caption for rounded image.Caption is shown bellow image.Before add slider to wordPress blog admin can preview a slider.Admin can set height,width of slider images.Admin can also set speed,Number Of visible images into slider,on/off lightbox.Admin can also set link for lightbox image caption title.Image title and link are optional.If not set it will just display image with lightbox.
 
-**Live Demo  [Responsive Continuous Slider With Responsive Lightbox](http://blog.i13websolution.com/wp-continuous-slider-with-lightbox-pro/)**
+**Live Demo  [Responsive circle Slider With Responsive Lightbox](http://blog.i13websolution.com/live-preview-circle-image-gallery-slider-pro/)**
 
-**Find WordPress Responsive Continuous Slider With Responsive Lightbox Pro Plugin(Unlimited Slider + Mass Image Upload + Much more) at [Responsive Continuous Slider](http://www.i13websolution.com/wordpress-continuous-image-carousel-with-lightbox-pro.html)**
+**Find WordPress Responsive Circle Slider With Responsive Lightbox Pro Plugin(Unlimited Slider + Mass Image Upload + Much more) at [Circle Slider Gallery](http://www.i13websolution.com/wordpress-circle-image-gallery-slider-with-lightbox-pro.html)**
 
 
 
