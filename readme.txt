@@ -1,4 +1,5 @@
 === Circle Image Slider With Lightbox ===
+
 Contributors:nik00726
 Donate link:http://www.i13websolution.com/donate-wordpress_image_thumbnail.php
 Tags:wordpress circle slider lightbox,wordpress circle slider,wordpress rounded image,wordpress circle gallery,wordpress circle gallery slider,wordpress google like rounded image
