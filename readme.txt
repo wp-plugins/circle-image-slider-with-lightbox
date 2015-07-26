@@ -105,17 +105,26 @@ This plugin is easy to install like other plug-ins of Wordpress as you need to j
 == Screenshots ==
 
 1. Slider Settings
-2. Manage Images
-3. Preview Slider 
-4. Slider on website frontend
-5. Slider lightbox
-6. Responsive circle image slider
-7. Pro Version slider
-8. Pro version manage sliders.
-9. Pro version manage images.
-10. Pro version add/edit image.
-11. Pro version add featured image to slider.
 
+2. Manage Images
+
+3. Preview Slider 
+
+4. Slider on website frontend
+
+5. Slider lightbox
+
+6. Responsive circle image slider
+
+7. Pro Version slider
+
+8. Pro version manage sliders.
+
+9. Pro version manage images.
+
+10. Pro version add/edit image.
+
+11. Pro version add featured image to slider.
 
 
 == License ==
