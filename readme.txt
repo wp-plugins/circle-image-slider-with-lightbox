@@ -17,9 +17,9 @@ Circle Image Silder With Lightbox is beautiful responsive circle thumbnail image
 
 Circle Image Slider With Lightbox is beautiful responsive circle thumbnail image slider with responsive lightbox.Admin can manages any number of images into the slider.Admin can add,edit and delete slider images.admin can set image description to lightbox.admin can set caption for rounded image.Caption is shown bellow image.Before add slider to wordPress blog admin can preview a slider.Admin can set height,width of slider images.Admin can also set speed,Number Of visible images into slider,on/off lightbox.Admin can also set link for lightbox image caption title.Image title and link are optional.If not set it will just display image with lightbox.
 
-**Live Demo  [Responsive circle Slider With Responsive Lightbox](http://blog.i13websolution.com/live-preview-circle-image-gallery-slider-pro/)**
+**Live Demo  [Responsive circle Image Slider With Responsive Lightbox](http://blog.i13websolution.com/live-preview-circle-image-gallery-slider-pro/)**
 
-**Find WordPress Responsive Circle Slider With Responsive Lightbox Pro Plugin(Unlimited Slider + Mass Image Upload + Much more) at [Circle Slider Gallery](http://www.i13websolution.com/wordpress-circle-image-gallery-slider-with-lightbox-pro.html)**
+**Find WordPress Responsive Image Circle Slider With Responsive Lightbox Pro Plugin(Unlimited Slider + Mass Image Upload + Much more) at [Circle Image Gallery](http://www.i13websolution.com/wordpress-circle-image-gallery-slider-with-lightbox-pro.html)**
 
 
 
@@ -104,7 +104,7 @@ This plugin is easy to install like other plug-ins of Wordpress as you need to j
 
 == Screenshots ==
 
-1. Slider Settings 
+1. Slider Settings
 2. Manage Images
 3. Preview Slider 
 4. Slider on website frontend
@@ -113,8 +113,8 @@ This plugin is easy to install like other plug-ins of Wordpress as you need to j
 7. Pro Version slider
 8. Pro version manage sliders.
 9. Pro version manage images.
-10.Pro version add/edit image.
-11.Pro version add featured image to slider.
+10. Pro version add/edit image.
+11. Pro version add featured image to slider.
 
 
 
