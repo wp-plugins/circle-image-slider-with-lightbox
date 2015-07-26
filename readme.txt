@@ -116,15 +116,15 @@ This plugin is easy to install like other plug-ins of Wordpress as you need to j
 
 6. Responsive circle image slider
 
-7. Pro Version slider
+7. Pro Version Manage Sliders
 
-8. Pro version manage sliders.
+8. Pro version Mass Image Upload
 
 9. Pro version manage images.
 
-10. Pro version add/edit image.
+10. Pro version Frontend preview.
 
-11. Pro version add featured image to slider.
+11. Pro version add/edit featured image to slider.
 
 
 == License ==
