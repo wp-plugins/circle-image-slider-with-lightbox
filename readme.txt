@@ -120,8 +120,6 @@ This plugin is easy to install like other plug-ins of Wordpress as you need to j
 
 8. Pro version Mass Image Upload
 
-9. Pro version manage images.
-
 10. Pro version Frontend preview.
 
 11. Pro version add/edit featured image to slider.
